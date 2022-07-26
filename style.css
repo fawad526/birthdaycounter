@@ -1,0 +1,38 @@
+*{
+    margin: 5px;
+
+}
+body{
+align-items: center;
+justify-content: center;
+flex-direction: column;
+margin:0;
+font-family: 'Times New Roman', Times, serif;
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXlBxCTkGDTlRKAaeC14uZ-QP0WwGlb-M18NxAQxC2wQ&s);
+text-align: center;
+}
+h1{
+
+text-align: center;
+font-weight: bold;
+font-size: 3rem;
+margin-top: 30px;
+}
+.container-box{
+    display:flex;
+    padding-left: 29rem;
+    padding-top: 20px;
+
+}
+.big-text{
+    display: flex;
+    align-items: center;
+    font-size: 3rem;
+    font-weight: bold;
+    margin: 0 2rem;
+
+}
+span{
+    font-size: 20px;
+    font-weight: bolder;   
+}
